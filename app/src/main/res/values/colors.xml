@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#655E67</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="error_red">#FF3333</color>
+    <color name="good_green">#33FF33</color>
+    <color name="google_red">#EA4335</color>
+    <color name="facebook_blue">#3F51B5</color>
+
+    <!-- Palette -->
+    <color name="palette_background">#38343c</color>
+    <color name="palette_blue1">#005f6b</color>
+    <color name="palette_blue2">#008c9e</color>
+    <color name="palette_blue3">#00b4cc</color>
+    <color name="palette_blue4">#00dffc</color>
+
+</resources>

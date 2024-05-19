@@ -1,0 +1,6 @@
+com.example.iu_mse_app.test.app-annotation-experimental-1.3.0-0 /home/f43i/.gradle/caches/transforms-3/1b34e5f35291a7788e3e5b0dfddc2165/transformed/annotation-experimental-1.3.0/res
+com.example.iu_mse_app.test.app-core-1.5.0-1 /home/f43i/.gradle/caches/transforms-3/b3a8539d17e2e4efa8705939e3b41d0b/transformed/core-1.5.0/res
+com.example.iu_mse_app.test.app-androidTest-2 /home/f43i/AndroidStudioProjects/IUMSEApp/app/build/generated/res/resValues/androidTest/debug
+com.example.iu_mse_app.test.app-mergeDebugAndroidTestResources-3 /home/f43i/AndroidStudioProjects/IUMSEApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.iu_mse_app.test.app-mergeDebugAndroidTestResources-4 /home/f43i/AndroidStudioProjects/IUMSEApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.iu_mse_app.test.app-debugAndroidTest-5 /home/f43i/AndroidStudioProjects/IUMSEApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="error_red">#FF3333</color>
+    <color name="facebook_blue">#3F51B5</color>
+    <color name="good_green">#33FF33</color>
+    <color name="google_red">#EA4335</color>
+    <color name="grey">#655E67</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="palette_background">#38343c</color>
+    <color name="palette_blue1">#005f6b</color>
+    <color name="palette_blue2">#008c9e</color>
+    <color name="palette_blue3">#00b4cc</color>
+    <color name="palette_blue4">#00dffc</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">IU-MSE-App</string>
+    <string name="audioStreamUrl">"https://wdr-1live-neufuerdensektor.icecastssl.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3"</string>
+    <string name="chat_Button">senden</string>
+    <string name="chat_hint">Nachricht eingeben!</string>
+    <string name="empty_placeholder"> </string>
+    <string name="history_history">Gespielte Songs</string>
+    <string name="home_about">Info</string>
+    <string name="home_chat">Chat</string>
+    <string name="home_news">Nachrichten</string>
+    <string name="home_voting">Song Voting</string>
+    <string name="info_module">DLBCSEMSE02_D</string>
+    <string name="info_name">Max Mustermann</string>
+    <string name="info_textfeld_modul">Modul:</string>
+    <string name="info_textfeld_name">Name:</string>
+    <string name="info_textfeld_version">Version:</string>
+    <string name="info_version">V.1.0a</string>
+    <string name="keyStorePassword">password</string>
+    <string name="login_error">Fehler beim Login!</string>
+    <string name="login_facebook">Mit Facebook anmelden</string>
+    <string name="login_google">Mit Google anmelden</string>
+    <string name="login_normal">Anmelden</string>
+    <string name="login_password">Passwort</string>
+    <string name="login_register">registrieren</string>
+    <string name="login_username">Benutzername</string>
+    <string name="news_header">News:</string>
+    <string name="placeholder">PLACEHOLDER</string>
+    <string name="sender_name">RADIO SOICWAVE</string>
+    <string name="serverDomain">"https://10.0.2.2:8080/"</string>
+    <string name="session_error">Session ungültig. Bitte neu anmelden!</string>
+    <string name="socketServerAdr">"10.0.2.2"</string>
+    <string name="socketServerPrt">"1234"</string>
+    <string name="tb_home">Home</string>
+    <string name="tb_logout">Ausloggen</string>
+    <string name="toast_pause">Wiedergabe gestoppt!</string>
+    <string name="toast_play">Wiedergabe gestartet!</string>
+    <string name="toast_submitted">erfolgreich abgestimmt!</string>
+    <string name="vote_button">senden</string>
+    <string name="vote_error">Sie haben bereits abgestimmt!</string>
+    <string name="vote_voting">Die Song Auswahl:</string>
+    <string name="you">Sie</string>
+    <style name="Base.Theme.IUMSEApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.IUMSEApp" parent="Base.Theme.IUMSEApp"/>
+</resources>
