@@ -17,6 +17,7 @@ import androidx.fragment.app.FragmentTransaction;
 
 import com.example.iu_mse_app.R;
 import com.example.iu_mse_app.fragments.ChatFragment;
+import com.example.iu_mse_app.fragments.HistoryFragment;
 import com.example.iu_mse_app.fragments.HomeFragment;
 import com.example.iu_mse_app.fragments.InfoFragment;
 import com.example.iu_mse_app.fragments.NewsFragment;
@@ -36,6 +37,7 @@ public class MainActivity extends FragmentActivity {
         add(new VoteFragment());
         add(new NewsFragment());
         add(new ChatFragment());
+        add(new HistoryFragment());
         add(new InfoFragment());
     }};
 
