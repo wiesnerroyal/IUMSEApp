@@ -1,4 +1,4 @@
-#Sun May 19 12:38:54 CEST 2024
+#Thu May 23 07:39:34 CEST 2024
 base.0=/home/f43i/AndroidStudioProjects/IUMSEApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/f43i/AndroidStudioProjects/IUMSEApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/f43i/AndroidStudioProjects/IUMSEApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
